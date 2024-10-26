@@ -46,20 +46,20 @@ The most common attack types and target types were identified.
 Casualty counts were analyzed to understand the impact of attacks.
 
 **Tools and Libraries**
-The EDA was conducted using the following tools and libraries:
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Plotly
+- The EDA was conducted using the following tools and libraries:
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 
 **Usage:**
-To run this EDA project on your local machine:
-Clone the repository: git clone https://github.com/yourusername/terrorism-eda.git
-Navigate to the notebooks directory.
-Open the Jupyter Notebook file and run each cell to reproduce the analysis.
+- To run this EDA project on your local machine:
+- Clone the repository: git clone https://github.com/yourusername/terrorism-eda.git
+- Navigate to the notebooks directory.
+- Open the Jupyter Notebook file and run each cell to reproduce the analysis.
 
 **Contributing:**
 Contributions are welcome! If you find any issues or want to enhance the analysis, feel free to submit a pull request.
